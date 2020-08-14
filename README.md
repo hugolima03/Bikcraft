@@ -16,6 +16,6 @@ Desenvolvimento do esqueleto do website feito em programas de prototipagem(Adobe
 
 - Design  
 Estilizando o wireframe ainda na ferramenta Adobe XD.  
-![Design](Planejamento/readmeImgs/Design.png)
+![Design](Planejamento/readmeImgs/design.png)
 
    
