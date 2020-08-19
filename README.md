@@ -25,4 +25,7 @@ Estilizando o wireframe ainda na ferramenta Adobe XD.
 - Codificação  
 
 Chegamos na parte principal, aqui destaco as principais técnicas usadas no desenvolvimento.  
-- Display block para criação dos grids ( futuramente pretendo implementar CSS grid layout e/ou CSS Flexbox )
+
+  💠 Display block para criação dos grids ( futuramente pretendo implementar CSS grid layout e/ou CSS Flexbox ).  
+  💠  
+  💠  
