@@ -151,6 +151,8 @@
 	padding-top: 14px;
 }
 
+/* Orçamento */
+
 .form {
 	padding-right: 0px;
 }
@@ -158,5 +160,18 @@
 .orcamento_dados ul {
 	padding-right: 0px;
 }
-/* Orçamento */
+
+/* Contato */
+
+.contato_form {
+	padding-right: 0px;
+	margin-bottom: 40px;
+}
+
+.contato_mapa {
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+
 }
