@@ -198,6 +198,10 @@ img {
 	text-align: center;
 }
 
+.produtos_lista li img {
+	margin: 0 auto;
+}
+
 /* Necessário para centralizar as imagens */
 .produtos_lista li img {
 	margin: 0 auto;
