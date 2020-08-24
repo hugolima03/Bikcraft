@@ -27,5 +27,5 @@ Estilizando o wireframe ainda na ferramenta Adobe XD.
 Chegamos na melhor parte, aqui destaco as principais técnicas usadas no desenvolvimento.  
 
   💠 Propriedade float para criação dos grids ( futuramente pretendo implementar CSS grid layout e/ou CSS Flexbox ).  
-  💠  
+  💠  Adicionando Slider com Javascript na página de portfólio. Usei um plugin js simples disponível [AQUI](https://github.com/origamid/simple-slide)
   💠  
