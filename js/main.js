@@ -15,12 +15,3 @@ if (window.SimpleSlide) {
     nav: true
   })
 }
-
-if (window.SimpleForm) {
-  new SimpleForm({
-    form: ".formphp", // seletor do formulário
-    button: "#enviar", // seletor do botão
-    erro: "<div id='form-erro'><h2>Erro no envio</h2><h2>Um erro ocorreu, tente para o email hugo8romao@gmail.com.</h2></div>", // mensagem de erro
-    sucesso: "<div id='form-sucesso'><h2>Formulário enviado com sucesso</h2><p>Em breve eu entro em contato com você<3.</p></div>", // mensagem de sucesso
-  });
-}
