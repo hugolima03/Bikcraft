@@ -1,3 +1,6 @@
+if (window.SimpleAnime) {
+  new SimpleAnime();
+}
 if (window.SimpleSlide) {
   new SimpleSlide({
     slide: "quote",
