@@ -202,11 +202,6 @@ img {
 	margin: 0 auto;
 }
 
-/* Necessário para centralizar as imagens */
-.produtos_lista li img {
-	margin: 0 auto;
-}
-
 .produtos_lista li h3{
 	font-weight: bold;
 	font-size: 18px;
@@ -391,9 +386,21 @@ img {
 	padding: 20px 0;
 }
 
-/* Javascript */
+/*JAVASCRIPT*/
 
-.js [data-slide]{position:relative}[data-slide]>*{position:absolute;top:0;opacity:0;pointer-events:none}.js [data-slide]>.active{position:relative;opacity:1;transition:opacity .5s;z-index:1;pointer-events:auto}
+.js [data-slide] {
+  position: relative;
+}
+.js [data-slide] > * {
+  position: absolute;
+  top: 0px;
+  opacity: 0;
+}
+.js [data-slide] > .active {
+  position: relative;
+  opacity: 1;
+  transition: opacity 500ms;
+}
 
 .js [data-slide-nav] {
 	display: block;
@@ -418,25 +425,30 @@ img {
 	background: #fec63e;
 }
 
-[data-anime] {
-  opacity: 0;
+.js [data-anime] {
+	opacity: 0;
 }
 
-.fadeInDown {
-  transform: translate3d(0,-20px,0);
-}
-.fadeInUp {
-  transform: translate3d(0,20px,0);
-}
-.fadeInRight {
-  transform: translate3d(20px,0,0);
-}
-.fadeInLeft {
-  transform: translate3d(-20px,0,0);
+.js .fadeInDown {
+	transform: translate3d(0, -20px, 0);
 }
 
-.anime {
-  opacity: 1;
-  transform: none;
-  transition: transform .8s, opacity .8s;
+.js .anime {
+	opacity: 1;
+	transform: none;
+	transition: opacity 800ms, transform 800ms;
+}
+
+.nao-aparece {
+	visibility: hidden;
+	position: absolute;
+	height: 0px;
+}
+
+#form-sucesso {
+	color: #31aa39;
+}
+
+#form-erro {
+	color: #f64540;
 }
