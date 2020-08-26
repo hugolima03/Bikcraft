@@ -1,7 +1,7 @@
 # Bikcraft
 ![Bikcraft](Planejamento/readmeImgs/Untitled.png)
 
-
+![Bikcrafthero](Planejamento/readmeImgs/hero.png)
 O projeto **Bikcraft** é uma projeto de extensão de portfólio! desenvolvido usando as três tecnologias básicas da internet. O HTML, CSS e Javascript. Bikcraft é uma empresa fictícia que cria bicicletas personalizadas, é uma empresa nova, mas que quer utilizar tradição na montagem das bicicletas!
 
 ## [Acesse o Bikcraft🚴!](https://bikcraft-three.vercel.app/)
